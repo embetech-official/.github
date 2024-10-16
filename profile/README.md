@@ -16,3 +16,11 @@ So far the following platforms are supported by demo projects:
 - [RC-CC1312R-868 module](https://github.com/embetech-official/embenet-demo-rc-cc1312r-868)
 
 Note that these projects can be easily adapted to other, similar platforms :wink:
+
+# Open-source utilities
+
+Check out other MIT-licensed components. We use them in our projects and now you can too :wink:
+- [logger - lightweight logging library in C](https://github.com/embetech-official/logger)
+- [embeutils - small set of utilities useful in embedded C projects](https://github.com/embetech-official/embeutils)
+
+
