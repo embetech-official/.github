@@ -11,6 +11,7 @@ Below :point_down: you will find a set of demo projects showing how to use the e
 
 So far the following platforms are supported by demo projects:
 - [STM32WL5 on a NUCLEO-WL55JC board](https://github.com/embetech-official/embenet-demo-nucleo-wl55jc)
+- [STM32WL3 on a NUCLEO-WL33CC1 board](https://github.com/embetech-official/embenet-demo-nucleo-wl33cc1)
 - [nRF52832 on a nRF52-DK board](https://github.com/embetech-official/embenet-demo-nrf52dk)
 - [CC1312R on a LAUNCHXL board](https://github.com/embetech-official/embenet-demo-launchxl-cc1312r1)
 - [RC-CC1312R-868 module](https://github.com/embetech-official/embenet-demo-rc-cc1312r-868)
