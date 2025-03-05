@@ -23,5 +23,5 @@ Note that these projects can be easily adapted to other, similar platforms :wink
 Check out other MIT-licensed components. We use them in our projects and now you can too :wink:
 - [logger - lightweight logging library in C](https://github.com/embetech-official/logger)
 - [embeutils - small set of utilities useful in embedded C projects](https://github.com/embetech-official/embeutils)
-
+- [crc - lightweight CRC library in C](https://github.com/embetech-official/crc)
 
